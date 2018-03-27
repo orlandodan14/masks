@@ -21,5 +21,6 @@
  *=require plugins/fancybox/jquery.fancybox.pack
  *=require plugins/isotope/isotope.min
  *=require plugins/map/css/map
+ *= require style
  *= require_self
  */
